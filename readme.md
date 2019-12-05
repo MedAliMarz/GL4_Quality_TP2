@@ -7,7 +7,7 @@ prepared by Jihed Chalghaf, Khalil Mejri, Med Ali Marzouk
 * We used Opera as a browser just to check the driver works correctly
 * We opted to target amazon.in for more interesting challenges especially in selecting DOM elemnts
 * Amazon.in html structure was surprising (spaghetti code)
-* 
+* An interpreted programming language is more helpful in web automation than compiled language (python >> java)
 # Questions
 * What the benefits of using selenium compared to web scraping ?
 * How can a big company like amazon neglet the strucutre of the code ? 
